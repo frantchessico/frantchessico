@@ -2,10 +2,9 @@
 
 <link
   href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.css"
-  rel="stylesheet"
-/>
+  rel="stylesheet"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<div align="center">
+<div>
   <a href="https://github.com/frantchessico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frantchessico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantchessico&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,10 +14,10 @@
 
 <div class="row justify-content-center">
      <div class="col-md-1">
-         <i class="devicon-typescript-plain colored" style="font-size: 40px"></i>
+         <img height="30" width="40"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
      </div>
      <div class="col-md-1">
-         <i class="devicon-javascript-plain colored" style="font-size: 40px"></i>
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      </div>
      <div class="col-md-1">
          <i class="devicon-python-plain colored" style="font-size: 40px"></i>
@@ -57,14 +56,20 @@
 ## 
 
 <div> 
-  <a href="https://wa.me/qr/OQ4PAQEHZSXGC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/frantchessico/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/Franciscolnoque" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/qr/OQ4PAQEHZSXGC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/frantchessico/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://twitter.com/Franciscolnoque" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
  
-  <a href = "mailto:jaimeinoque20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jaimeinoque20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/francisco-inoque-24a76112b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <a href="hhttps://dev.to/frantchessico" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
+
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
