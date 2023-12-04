@@ -6,7 +6,7 @@ Hello, welcome to my GitHub profile! My name is Francisco Inoque, and I'm a pass
 
 Since I embarked on my programming career, I've delved deep into the realm of systems and server development. My primary areas of expertise include:
 
-- 🚀 **Backend Technologies**: I specialize in Backend development, with significant experience in Node.js, Go, and Python. These tools empower me to create efficient and scalable systems.
+- 🚀 **Backend Technologies**: I specialize in Backend development, with significant experience in Node.js, Go, Python and Java. These tools empower me to create efficient and scalable systems.
 
 - 🛢️ **Databases**: I work with a variety of databases, ranging from flexible NoSQL databases like MongoDB and Redis to robust relational databases like PostgreSQL. I have a genuine passion for optimizing queries and data structures for high performance.
 
