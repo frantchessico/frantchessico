@@ -1,45 +1,60 @@
-# Francisco Inoque - Backend Developer 👨‍💻
 
-Hello, welcome to my GitHub profile! My name is Francisco Inoque, and I'm a passionate Backend Developer with over 5 years of experience in the field. My tech journey has been exciting, and I'm eager to share a bit more about myself.
 
-## About Me
+# Francisco Inoque - Backend Developer & SaaS Creator 🚀  
 
-Since I embarked on my programming career, I've delved deep into the realm of systems and server development. My primary areas of expertise include:
+## Welcome!  
 
-- 🚀 **Backend Technologies**: I specialize in Backend development, with significant experience in Node.js, Go, Python and Java. These tools empower me to create efficient and scalable systems.
+Hello, and thanks for stopping by! My name is **Francisco Inoque**, and I’m a **Backend Developer** with **6+ years of experience**. I specialize in building high-performance, scalable systems and have a passion for solving complex technical challenges.  
 
-- 🛢️ **Databases**: I work with a variety of databases, ranging from flexible NoSQL databases like MongoDB and Redis to robust relational databases like PostgreSQL. I have a genuine passion for optimizing queries and data structures for high performance.
+I’m also the **creator of Flyone**, an advanced link management platform, and **Metigan**, a cutting-edge email tracking SaaS.  
 
-- 🔥 **Performance and Optimization**: Optimization is a core part of my work. I love finding ways to speed up applications and make them more efficient.
+## 💡 About Me  
 
-- 📡 **Firebase**: I have solid experience using Firebase to build real-time and authentication-enabled applications with ease.
+My journey in tech has been fueled by a deep passion for backend development, optimization, and cloud-based solutions. Here are some of the key areas I specialize in:  
 
-- 🌐 **Robust Solutions**: My primary focus is on crafting robust and scalable solutions to tackle complex challenges. I believe technology should be a tool to solve real-world problems.
+- 🚀 **Backend Development** – Experienced in **Node.js, Go, Python, and Java** for building scalable applications.  
+- 🛢️ **Databases** – Deep knowledge of **MongoDB, Redis, PostgreSQL, MySQL, DynamoDB, Cassandra, and Elasticsearch** for efficient data handling.  
+- ☁️ **Cloud Computing & DevOps** – Extensive experience with **AWS (Lambda, SES, S3, EC2, CloudFront)** and **Docker** for seamless deployments.  
+- 📢 **Messaging & Streaming** – Expertise in **Kafka, Amazon Kinesis, SQS, ActiveMQ, and RabbitMQ** for real-time processing.  
+- 🌐 **GraphQL & API Design** – Building **GraphQL and REST APIs** for maximum flexibility and efficiency.  
+- 🧪 **Test-Driven Development (TDD)** – Writing clean, maintainable, and well-tested code using Agile methodologies.  
+- ⚡ **High-Performance Optimization** – Passionate about improving system performance and reducing latency.  
 
-- 🐳 **Docker**: I work with Docker to create and manage containers, making application deployment and scaling more efficient and consistent.
+---
 
-- 📢 **Messaging Systems**: I have experience in developing messaging systems using Apache Kafka, Amazon Kinesis, SQS, ActiveMQ, and RabbitMQ, ensuring reliable communication between components.
+## 🚀 **Flyone - Superpowers for Your Marketing**  
 
-- ☁️ **AWS**: I leverage Amazon Web Services (AWS) infrastructure to host and scale applications in the cloud, ensuring high availability and scalability. I also have experience with AWS Lambda.
+As the **creator of Flyone**, I developed a **powerful link management SaaS** designed to boost marketing strategies. **Flyone offers**:  
 
-- 🌐 **GraphQL**: I work with GraphQL to create flexible and efficient APIs, allowing clients to retrieve the data they need effectively.
+✅ **Branded link shortening** with custom domains  
+✅ **Advanced analytics & tracking** for marketing insights  
+✅ **Fully customizable bio link pages**  
+✅ **Future integrations with Instagram & TikTok**  
 
-- 🎨 **Prisma**: I use Prisma as an Object-Relational Mapping (ORM) tool to simplify database interaction and speed up development.
+### **Technologies Used in Flyone**  
+🛠 **Tech Stack:** **Next.js, Node.js, MongoDB, Redis, AWS SES, Firebase**  
+🔗 **Pub/Sub System:** Built with my own **@savanapoint/pub-sub** library  
 
-- 🧪 **Test Driven Development (TDD)**: I'm well-versed in Test Driven Development (TDD) and have experience working in Agile environments, ensuring code quality and reliability.
+👉 Check it out: [Flyone Website](https://f1y.li/flyone)  
 
-- 📈 **Database Experience**: I have worked with a wide range of databases, both relational (MySQL, Postgres) and non-relational (Redis, DynamoDB, Cassandra, Elasticsearch, Hbase), tailoring solutions to specific project needs.
+---
 
-## Continuous Learning
+## 📩 **Metigan - Advanced Email Tracking & Analytics**  
 
-As a tech enthusiast, I'm always on the lookout for continuous learning opportunities. The tech world evolves rapidly, and I'm determined to keep up with the latest trends and best practices. I'm constantly exploring new technologies and methods to enhance my skills and improve my work.
+I'm currently building **Metigan**, a next-gen **email tracking SaaS** with detailed analytics for email delivery, opens, and engagement. **Metigan helps businesses optimize their email campaigns** with **real-time insights and powerful tracking capabilities**.  
 
-## Let's Collaborate!
+🔹 **SMTP & Amazon SES support**  
+🔹 **Real-time email event tracking**  
+🔹 **Detailed analytics dashboard**  
+🔹 **Seamless API integration**  
 
-I'm open to collaboration opportunities and would love to work with individuals who share my passion for programming and building high-quality solutions. Whether you have an interesting project or simply want to discuss ideas, please don't hesitate to get in touch with me.
+---
 
-## Get in Touch
+## 🤝 Let’s Connect!  
 
-You can reach me at hi@franciscoinoque.tech or find me on [LinkedIn](https://www.linkedin.com/in/francisco-inoque-24a76112b/). Feel free to follow me and start a conversation!
+I’m always open to collaborations, new projects, and exciting discussions in the tech space.  
 
-Thank you for visiting my profile. Let's make the digital world even better, together! 🌟
+📩 **Email:** hi@franciscoinoque.tech  
+💼 **LinkedIn:** [Francisco Inoque](https://www.linkedin.com/in/francisco-inoque-24a76112b/)  
+
+🚀 **Let’s build something amazing together!** 🚀  
