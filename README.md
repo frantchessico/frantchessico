@@ -54,7 +54,7 @@ I'm currently building **Metigan**, a next-gen **email tracking SaaS** with deta
 
 I’m always open to collaborations, new projects, and exciting discussions in the tech space.  
 
-📩 **Email:** hi@franciscoinoque.tech  
+📩 **Email:** franciscoinoque@f1y.pro  
 💼 **LinkedIn:** [Francisco Inoque](https://www.linkedin.com/in/francisco-inoque-24a76112b/)  
 
 🚀 **Let’s build something amazing together!** 🚀  
